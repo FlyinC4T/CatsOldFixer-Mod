@@ -1,5 +1,5 @@
 # CatsOldFixer  ( Requires [Utilla](https://github.com/legoandmars/Utilla) )
-This is a mod for Gorilla Tag.
+This is a mod for Gorilla Tag. A total upgrade from the OldSlip mod that I made a while ago.
 - Removes the Wind of Forest, Canyon, Beach and Mountains!
 - Returns the possibility to 'Slip Slap' in Forest. (Might add canyons at a later date)
 - Returns the old movement feel.
